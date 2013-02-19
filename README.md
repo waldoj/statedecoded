@@ -1,4 +1,4 @@
-statedecoded
-============
+The State Decoded
+==================
 
-Project moved to https://github.com/statedecoded/statedecoded
+The project has been moved to its own organizational account, at https://github.com/statedecoded/statedecoded.
